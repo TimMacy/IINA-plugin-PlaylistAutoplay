@@ -1,0 +1,13 @@
+{
+    "name": "Playlist Autoplay",
+    "identifier": "com.timmacy.iina.playlist-autoplay",
+    "version": "1.0",
+    "author": {
+        "name": "Tim Macy"
+    },
+    "description": "Toggle \"Play Next Item Automatically\" and \"Playlist Loop\" either together or individually.",
+    "entry": "main.js",
+    "preferenceDefaults": {
+        "enabled": false
+    }
+}
