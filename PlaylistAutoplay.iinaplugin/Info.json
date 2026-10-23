@@ -3,9 +3,11 @@
     "identifier": "com.timmacy.iina.playlist-autoplay",
     "version": "1.0",
     "author": {
-        "name": "Tim Macy"
+        "name": "Tim Macy",
+        "url": "https://github.com/TimMacy"
     },
     "description": "Toggle \"Play Next Item Automatically\" and \"Playlist Loop\" either together or individually.",
+    "ghRepo": "TimMacy/IINA-plugin",
     "entry": "main.js",
     "preferenceDefaults": {
         "enabled": false
