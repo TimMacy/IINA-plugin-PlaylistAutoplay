@@ -1,6 +1,6 @@
 # Playlist Autoplay
 
-An [IINA](https://iina.io/ "The modern media player for macOS") plugin to toggle "Play Next Item Automatically" and "Playlist Loop" either together via "Autoplay and Playlist Loop" or individually via the Plugin menu.
+An [IINA](https://iina.io/ "The modern media player for macOS") plugin to toggle "Play Next Item Automatically" and "Playlist Loop" either together via "Autoplay and Playlist Loop" or individually in the Plugin menu.
 
 <p align="center"><img width="70%" alt="plugin menu" src="unknown" /></p>
 
